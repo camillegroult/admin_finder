@@ -1,6 +1,9 @@
-#for more information visit www.instagram.com/cgroult_
+#for more information visit www.instagram.fr/
 #WeAreTheWorld
 #Camillegroult
+#InfoSec
+#BlackHoleSec
+#RedTeam
 
 
 import httplib
@@ -22,7 +25,7 @@ try:
     print "\t#      ###########    [#]    ########   [#] #####  AdminFinder #"
     print "\t#                                                              #"
     print "\t#                                            coded by Sofyan D #"
-    print "\t#                          lillois59119@hotmail.fr             #"
+    print "\t#                          contac@camillegroult.fr             #"
     print "\t################################################################"
     var1=0
     var2=0
